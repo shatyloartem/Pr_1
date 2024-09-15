@@ -1,0 +1,12 @@
+U:\>tree
+Folder PATH listing
+Volume serial number is B8E1-8EBD
+U:.
+├───Children
+│   ├───Alice
+│   ├───John
+│   └───Mia
+├───git
+└───Parents
+    ├───Bob
+    └───Mary

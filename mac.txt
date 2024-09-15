@@ -1,0 +1,7 @@
+U:\>getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+0A-00-27-00-00-12   \Device\Tcpip_{C973B95E-3B61-4FA2-9B61-A58888978F35}
+1C-1B-0D-37-E1-A8   \Device\Tcpip_{07B2B795-7CB5-4CEF-9769-30B104B04232}
+00-1A-7D-DA-71-09   Media disconnected

@@ -1,0 +1,25 @@
+U:\>dir
+ Volume in drive U has no label.
+ Volume Serial Number is B8E1-8EBD
+
+ Directory of U:\
+
+09/15/2024  07:02 PM    <DIR>          .
+09/15/2024  07:02 PM    <DIR>          ..
+09/15/2024  06:37 PM                51 author.txt
+09/15/2024  06:39 PM    <DIR>          Children
+09/15/2024  06:38 PM    <DIR>          git
+09/15/2024  07:01 PM             1,085 ip.txt
+09/15/2024  06:39 PM    <DIR>          Parents
+09/15/2024  06:06 PM            10,098 Screenshot 2024-09-15 180606.png
+09/15/2024  06:11 PM           218,683 Screenshot 2024-09-15 181115.png
+09/15/2024  06:30 PM           135,038 Screenshot 2024-09-15 183009.png
+09/15/2024  06:41 PM           347,570 Screenshot 2024-09-15 184150.png
+09/15/2024  06:54 PM           522,167 Screenshot 2024-09-15 185411.png
+09/15/2024  06:58 PM             5,777 Screenshot 2024-09-15 185836.png
+09/15/2024  07:00 PM           495,888 Screenshot 2024-09-15 190035.png
+09/15/2024  06:30 PM               244 tree.txt
+09/15/2024  06:57 PM                31 variant.txt
+09/15/2024  07:02 PM                 0 zmist.txt
+              12 File(s)      1,736,632 bytes
+               5 Dir(s)  42,024,742,912 bytes free

@@ -1,0 +1,32 @@
+U:\>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::10db:f9d8:df12:7b47%18
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::4492:6d5e:6172:9313%3
+   IPv4 Address. . . . . . . . . . . : 192.168.0.102
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Сетевое подключение Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2001:0:284a:364:2004:3850:e06b:e87b
+   Link-local IPv6 Address . . . . . : fe80::2004:3850:e06b:e87b%13
+   Default Gateway . . . . . . . . . : ::
